@@ -10,7 +10,9 @@ Features:
 	Simple and easy to use.
 
 Usage:
-1.	Run the program.
-2.	Press 'Enter' to generate a new random number.
-3.	Press 'Space' to end the program.
+
+	Run the program.
+	Press 'Enter' to generate a new random number.
+	Press 'Space' to end the program.
+
 Feel free to explore and have fun with it!
