@@ -5,9 +5,9 @@ Welcome to RandomNumberGenerator! This is my program, and you are free to use an
 
 Features:
 
-•	Generates random numbers on pressing the 'Enter' key.
-•	Ends the program on pressing the 'Space' bar.
-•	Simple and easy to use.
+	Generates random numbers on pressing the 'Enter' key.
+	Ends the program on pressing the 'Space' bar.
+	Simple and easy to use.
 
 Usage:
 1.	Run the program.
