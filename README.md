@@ -3,7 +3,7 @@
 
 Welcome to RandomNumberGenerator! This is my program, and you are free to use and enjoy it.
 
-Features
+Features:
 
 •	Generates random numbers on pressing the 'Enter' key.
 
@@ -11,7 +11,7 @@ Features
 
 •	Simple and easy to use.
 
-Usage
+Usage:
 1.	Run the program.
 2.	Press 'Enter' to generate a new random number.
 3.	Press 'Space' to end the program.
